@@ -19,3 +19,8 @@ Practice areas: Business, marketing, sales, operations.
 * **Market K: [Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
 
 [Em construção 🚧🏗]
+
+# Contatos<br>
+📧 alyssonalk@gmail.com<br>
+💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br>
+👨‍🚀 [Telegram](t.me/alysson)
