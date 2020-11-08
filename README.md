@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 
-# Hello world
+# Hello world ✨
 
 ![](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/kamina.gif)
 
