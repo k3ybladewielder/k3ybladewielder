@@ -8,7 +8,7 @@ Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Lu
 
 ## Tech Skills: 
 
-Excel, Power BI, Python, Google Data Studio
+Excel, Python, Power BI, Google Data Studio, Data Analysis, Business Intelligence, Data Science.
 
 ## Áreas de atuação: 
 
