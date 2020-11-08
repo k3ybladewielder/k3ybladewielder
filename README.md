@@ -2,17 +2,15 @@
 
 # Hello world
 
-[PT-BR] Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes. Possuo +5 anos de experiência no varejo incluído atividades de data analyis e business intelligence na área de vendas.
+Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França (2019) com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes(2020). Atualmente estudando ciência e engenharia de dados e aplicando em alguns projetos. Possuo +5 anos de experiência no varejo incluído atividades administrativas, data analyis e business intelligence na área de vendas.
 
-Professional Skills: Excel, Power BI, Python, Google Data Studio
+# Tech Skills: 
 
-Áreas de atuação: Negócios, marketing, vendas, operações.
+Excel, Power BI, Python, Google Data Studio
 
-[EN-US] Im Alysson, I am a Bachelor of Business Administration with an MBA in Business Management on Faculdade São Luís de França and Competitive Intelligence on Universidade Tiradentes. I have +5 years of retail experience including data analytics and business intelligence activities in the sales area.
+# Áreas de atuação: 
 
-Professional Skills: Excel, Power BI, Python, Google Data Studio Practice areas: Business, marketing, sales, operations.
-
-Practice areas: Business, marketing, sales, operations.
+Negócios, marketing, vendas, operações.
 
 # Projetos<br>
 * **Market K: [Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br>
@@ -20,7 +18,8 @@ Practice areas: Business, marketing, sales, operations.
 
 [Em construção 🚧🏗]
 
-# Contatos<br>
+# Social <br>
 📧 alyssonalk@gmail.com<br>
 💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br>
-👨‍🚀 [Telegram](t.me/alysson)
+👨‍🚀 [Telegram](t.me/alysson)<br>
+🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)
