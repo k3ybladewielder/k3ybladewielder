@@ -2,6 +2,8 @@
 
 # Hello world
 
+![](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/kamina.gif)
+
 Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França (2019) com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes(2020). Atualmente estudando ciência e engenharia de dados e aplicando em alguns projetos. Possuo +5 anos de experiência no varejo incluído atividades administrativas, data analyis e business intelligence na área de vendas.
 
 ## Tech Skills: 
