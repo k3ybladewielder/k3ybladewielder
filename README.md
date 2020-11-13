@@ -4,24 +4,24 @@
 
 ![](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/kamina.gif)
 
-Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França (2019) com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes(2020). Atualmente estudando ciência e engenharia de dados e aplicando em alguns projetos. Possuo +5 anos de experiência no varejo incluído atividades administrativas, data analyis e business intelligence na área de vendas.
+<tt>Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França (2019) com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes(2020). Atualmente estudando ciência e engenharia de dados e aplicando em alguns projetos. Possuo +5 anos de experiência no varejo incluído atividades administrativas, data analyis e business intelligence na área de vendas.</tt>
 
 ## Tech Skills: 
 
-Excel, Python, Power BI, Google Data Studio, Data Analysis, Business Intelligence, Data Science.
+<tt>Excel, Python, Power BI, Google Data Studio, Data Analysis, Business Intelligence, Data Science.</tt>
 
-## Áreas de atuação: 
+## Áreas de atuação:
 
-Negócios, marketing, vendas, operações.
+<tt>Negócios, marketing, vendas, operações.</tt>
 
 ## Projetos<br>
-* **Market K: [Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br>
-* **Market K: [Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
+<tt>* **Market K: [Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br></tt>
+<tt>* **Market K: [Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br></tt>
 
-[Em construção 🚧🏗]
+<tt>[Em construção 🚧🏗]</tt>
 
 ## Social <br>
-📧 alyssonalk@gmail.com<br>
-💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br>
-👨‍🚀 [Telegram](t.me/alysson)<br>
-🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)
+<tt>📧 alyssonalk@gmail.com<br></tt>
+<tt>💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br></tt>
+<tt>👨‍🚀 [Telegram](t.me/alysson)<br></tt>
+<tt>🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)</tt>
