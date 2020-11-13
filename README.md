@@ -21,8 +21,8 @@
 
 <tt>[Em construção 🚧🏗]</tt>
 
-## Social <br>
+## Social
 <tt>📧 alyssonalk@gmail.com<br></tt>
-<tt>💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br></tt>
-<tt>👨‍🚀 [Telegram](t.me/alysson)<br></tt>
-<tt>🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)</tt>
+💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
+👨‍🚀 [Telegram](t.me/alysson)
+🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)</tt>
