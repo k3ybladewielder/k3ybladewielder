@@ -16,6 +16,7 @@
 
 ## Projetos<br>
 <tt>* **Market K: [Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br></tt>
+
 <tt>* **Market K: [Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br></tt>
 
 <tt>[Em construção 🚧🏗]</tt>
