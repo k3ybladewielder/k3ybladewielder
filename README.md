@@ -1,5 +1,6 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 
+
 # Hello world ✨
 
 ![](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/kamina.gif)
@@ -23,6 +24,6 @@
 
 ## Social
 <tt>📧 alyssonalk@gmail.com<br></tt>
-💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
-👨‍🚀 [Telegram](t.me/alysson)
-🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)</tt>
+<tt>💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)</tt>
+<tt>👨‍🚀 [Telegram](t.me/alysson)</tt>
+<tt>🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)</tt>
