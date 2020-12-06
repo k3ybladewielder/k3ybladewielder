@@ -22,6 +22,13 @@
 
 <tt>[Em construção 🚧🏗]</tt>
 
+
+## Estudos<br>
+<tt>* **[Bootcamp Analista de Machine Learning @ IGTI](https://github.com/k3ybladewielder/bootcamp_igti_ml)**<br></tt>
+
+<tt>* **[Bootcamp Engenharia de Dados @ IGTI](https://github.com/k3ybladewielder/bootcamp_igti_ed)**<br></tt>
+
+
 ## Social
 <tt>📧 alyssonalk@gmail.com<br></tt>
 <tt>💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)</tt>
