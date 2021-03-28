@@ -9,11 +9,7 @@
 
 ## Tech Skills: 
 
-<tt>Excel, Python, Power BI, Google Data Studio, Data Analysis, Business Intelligence, Data Science.</tt>
-
-## Áreas de atuação:
-
-<tt>Negócios, marketing, vendas, operações.</tt>
+<tt>Excel, Python, Power BI, Google Data Studio, Data Analysis, Business Intelligence, Data Science, Airflow, SQL.</tt>
 
 ## Projetos<br>
 <tt>* **[Market K: Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br></tt>
