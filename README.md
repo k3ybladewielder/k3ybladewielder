@@ -5,7 +5,7 @@
 
 ![](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/kamina.gif)
 
-<tt>Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França (2019) com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes(2020), estudante de ciência de dados. Possuo +6 anos de experiência no varejo incluído atividades administrativas, data analyis e business intelligence na área de vendas.</tt>
+<tt>Me chamo Alysson, sou Bacharel em Administração formado pela Faculdade São Luís de França (2019) com MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes(2020), Mestrando em Inovação e Tecnologia pela UFS e estudante de ciência de dados. Desde 2015 trabalhando com Business Intelligence e Analytics no varejo na área de vendas.</tt>
 
 ## Tech Skills: 
 
