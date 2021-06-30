@@ -13,9 +13,7 @@ Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analys
 
 ## Portifólio<br>
 * **[Market K: Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br>
-
 * **[Market K: Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
-
 * **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
 
 [Em construção 🚧🏗]
