@@ -14,7 +14,7 @@ Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analys
 * **[Market K: Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
 * **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
 * **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**<br>
-* **Cred Card Fraud Analysis
+* **Cred Card Fraud Analysis**
 
 [Em construção 🚧🏗]
 
