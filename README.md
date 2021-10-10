@@ -15,6 +15,7 @@ Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analys
 * **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
 * **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**<br>
 * **Cred Card Fraud Analysis**
+* **Store Sales - Time Series Forecasting**
 
 [Em construção 🚧🏗]
 
