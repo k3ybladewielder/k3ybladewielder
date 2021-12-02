@@ -16,6 +16,7 @@ Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analys
 * **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**<br>
 * **Cred Card Fraud Analysis**
 * **Store Sales - Time Series Forecasting**
+* **Store Item Demand Forecasting Challenge**
 * **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 
 [Em construção 🚧🏗]
