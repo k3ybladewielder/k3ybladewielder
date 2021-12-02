@@ -10,8 +10,6 @@ Desde 2015 trabalhando com Business Intelligence e Analytics no varejo na área 
 Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analysis, Business Intelligence.
 
 ## Portifólio<br>
-* **[Market K: Business Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_eda.ipynb)**<br>
-* **[Market K: Market Basket Analysis](https://github.com/k3ybladewielder/market_k/blob/main/market_k_mba.ipynb)**<br>
 * **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
 * **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**<br>
 * **Cred Card Fraud Analysis**
