@@ -15,6 +15,7 @@ Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analys
 * **Cred Card Fraud Analysis**
 * **Store Sales - Time Series Forecasting**
 * **Store Item Demand Forecasting Challenge**
+* **Rossmann Store Sales**
 * **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 
 [Em construção 🚧🏗]
