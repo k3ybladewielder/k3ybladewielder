@@ -12,11 +12,12 @@ Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analys
 ## Portifólio<br>
 * **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
 * **[Bank Marketing](https://github.com/k3ybladewielder/bank_marketing)**<br>
+* **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
 * **Cred Card Fraud Analysis**
 * **Store Sales - Time Series Forecasting**
 * **Store Item Demand Forecasting Challenge**
 * **Rossmann Store Sales**
-* **[Monthly Beer Production Forecasting](https://github.com/k3ybladewielder/beer)**
+
 
 [Em construção 🚧🏗]
 
