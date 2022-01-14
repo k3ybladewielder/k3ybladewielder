@@ -7,7 +7,7 @@ Desde 2015 trabalhando com Business Intelligence e Analytics no varejo na área 
 
 ## Tech Skills: 
 
-Python, Scikit-learn, Seaborn, Plotly, Power BI, Google Data Studio, Data Analysis, Business Intelligence.
+Business, Machine Learning, Power BI, Google Data Studio, Data Analysis, Business Intelligence.
 
 ## Portifólio<br>
 * **[Ifood Data Advenced Analytics Test](https://github.com/k3ybladewielder/ifood)**<br>
