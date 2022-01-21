@@ -17,9 +17,6 @@ Business, Machine Learning, Power BI, Google Data Studio, Data Analysis, Busines
 * **Store Item Demand Forecasting Challenge**
 * **Rossmann Store Sales**
 
-
-[Em construção 🚧🏗]
-
 Acesse a descrição completa [aqui](https://github.com/k3ybladewielder/portifolio).
 
 ## Social
