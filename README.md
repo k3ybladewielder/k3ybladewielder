@@ -14,3 +14,4 @@ Business, Machine Learning, Power BI, Google Data Studio, Data Analysis, Busines
 💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
 👨‍🚀 [Telegram](t.me/alysson)
 🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)
+Ⓜ️ [Medium](https://medium.com/@k3ybladewielder)
