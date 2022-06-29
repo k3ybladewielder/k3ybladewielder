@@ -2,12 +2,14 @@
 
 ### Hello world ✨
 
-Cientista da dados generalista com sólido background em negócios, desde 2015 trabalhando com Business Intelligence e Analytics no varejo na área de vendas. Mestrando em Inovação e Tecnologia pela UFS, MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019) 
+Cientista da dados com background de negócios. MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
 
-### Tech Skills: 
+Primary Skills: Data Science (Scikit-learn, statsmodels, matplotlib, plotly, and gradient boosting algorithms), Business Intelligence, Decision Theory, Decision Intelligence, Python, SQL, Estatística, Causal Inference, Análise de Regressão, Séries Temporais.
 
-Business, Machine Learning, Power BI, Google Data Studio, Data Analysis, Business Intelligence.
+Academic expertise: Inteligência Competitiva. Planejamento Estratégico. Marketing Estratégico. Liderança e Desenvolvimento de Equipe. Estatística. Matemática Aplicada. Metodologia Científica. Microeconomia. Macroeconomia. Pesquisa Operacional. Gestão de Marketing. Gestão de Pessoas. Comunicação e Expressão.
 
+### Portifólio
+[Projetos e estudos](https://github.com/k3ybladewielder/portifolio)
 
 ### Social
 📧 alyssonalk@gmail.com<br>
