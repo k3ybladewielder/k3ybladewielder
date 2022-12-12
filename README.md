@@ -20,5 +20,3 @@ Academic expertise: Inteligência Competitiva. Planejamento Estratégico. Market
 👨‍🚀 [Telegram](t.me/alysson)
 🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)
 Ⓜ️ [Medium](https://medium.com/@k3ybladewielder)
-
-<img src="https://github-readme-stats.vercel.app/api?username=k3ybladewielder&show_icons=true&theme=dark"/>
