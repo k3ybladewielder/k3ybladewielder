@@ -9,7 +9,7 @@ Primary Skills: Data Science (Scikit-learn, statsmodels, matplotlib, plotly, and
 Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Liderança e Desenvolvimento de Equipe. Estatística. Matemática Aplicada. Metodologia Científica. Microeconomia. Macroeconomia. Pesquisa Operacional. Gestão de Marketing. Gestão de Pessoas. Comunicação e Expressão.
 
 * [Medium](https://medium.com/@k3ybladewielder/): Blog com publicações sobre data science.
-* [Portifólio](https://github.com/k3ybladewielder/portifolio)
+* [Portifólio](https://github.com/k3ybladewielder/portifolio): Projetos e estudos.
 
 ### Social
 📧 alyssonalk@gmail.com<br>
