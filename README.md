@@ -23,6 +23,13 @@ Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteli
 * [**Entendendo CatBoost: Um guia (quase) definitivo**](https://medium.com/data-hackers/p-b28bc153a78)
 * [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
 
+### **Estudos** 📑
+* [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
+* [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
+* [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
+* [**Álgebra Linear e Otimização para Machine Learning**](https://github.com/k3ybladewielder/ds_studies)
+* [**Bootcamp do IGTI de Analista de Machine Learning**](https://github.com/k3ybladewielder/bootcamp_igti_ml)
+
 ### Social
 📧 alyssonalk@gmail.com<br>
 💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
