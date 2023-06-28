@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 
-### Hello world ✨
+# Hello world ✨
 
 Cientista da dados com background de negócios. MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
 
@@ -8,10 +8,10 @@ Primary Skills: Data Science (Scikit-learn, statsmodels, matplotlib, plotly, and
 
 Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Liderança e Desenvolvimento de Equipe. Estatística. Matemática Aplicada. Metodologia Científica. Microeconomia. Macroeconomia. Pesquisa Operacional. Gestão de Marketing. Gestão de Pessoas. Comunicação e Expressão.
 
-### Projetos 🧑🏽‍🔬
+# Projetos 🧑🏽‍🔬
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector) **(NLP)**
 
-### **Artigos (Medium)** 📚
+# **Artigos (Medium)** 📚
 * [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
 * [**Técnicas de Topic Modelling**](https://k3ybladewielder.medium.com/topic-modelling-682f74fc5e63)
 * [**Conceitos de NLP**](https://k3ybladewielder.medium.com/conceitos-e-m%C3%A9todos-de-nlp-3d20711d7474)
@@ -23,14 +23,14 @@ Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteli
 * [**Entendendo CatBoost: Um guia (quase) definitivo**](https://medium.com/data-hackers/p-b28bc153a78)
 * [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
 
-### **Estudos** 📑
+# **Estudos** 📑
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
 * [**Álgebra Linear e Otimização para Machine Learning**](https://github.com/k3ybladewielder/ds_studies)
 * [**Bootcamp do IGTI de Analista de Machine Learning**](https://github.com/k3ybladewielder/bootcamp_igti_ml)
 
-### Social
+# Social
 📧 alyssonalk@gmail.com<br>
 💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
 👨‍🚀 [Telegram](t.me/alysson)
