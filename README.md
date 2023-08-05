@@ -10,6 +10,7 @@ Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteli
 
 # Projetos 🧑🏽‍🔬
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector) **(NLP)**
+* [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
 
 # **Artigos (Medium)** 📚
 * [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
