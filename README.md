@@ -9,7 +9,7 @@ Primary Skills: Data Science (Scikit-learn, statsmodels, matplotlib, plotly, and
 Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Liderança e Desenvolvimento de Equipe. Estatística. Matemática Aplicada. Metodologia Científica. Microeconomia. Macroeconomia. Pesquisa Operacional. Gestão de Marketing. Gestão de Pessoas. Comunicação e Expressão.
 
 # Projetos 🧑🏽‍🔬
-* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector) **(NLP)**
+* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
 
 # **Artigos (Medium)** 📚
