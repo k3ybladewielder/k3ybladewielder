@@ -4,11 +4,11 @@
 
 Cientista da dados com background de negócios. MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
 
-Primary Skills: Data Science, Machine Learning, Business Intelligence, Analytics, Python, SQL, Séries Temporais (Forecasting), NLP, Innovation, Open Innovation, Databricks.
+Primary Skills: Data Science, Machine Learning,  Business Intelligence, Analytics, Python, SQL, Séries Temporais (Forecasting), NLP, Innovation, Open Innovation, Databricks.
 
 Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS.
 
-Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico.. Estatística. Matemática Aplicada. Gestão de Marketing. Applied Decision Theory. Applied Decision Science. 
+Academic expertise:  Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Estatística. Matemática Aplicada. Gestão de Marketing. Applied Decision Theory. Applied Decision Science. 
 
 Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 
