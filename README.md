@@ -4,9 +4,13 @@
 
 Cientista da dados com background de negócios. MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
 
-Primary Skills: Data Science (Scikit-learn, statsmodels, matplotlib, plotly, and gradient boosting algorithms), Business Intelligence, Analytics, Decision Intelligence, Python, SQL, PowerBI, Data Studio, Google Analytics 4 (GA4), Causal Inference, Análise de Regressão, Séries Temporais, NLP. Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS, e Databricks.
+Primary Skills: Data Science, Machine Learning, Business Intelligence, Analytics, Python, SQL, Séries Temporais (Forecasting), NLP, Innovation, Open Innovation, Databricks.
 
-Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Liderança e Desenvolvimento de Equipe. Estatística. Matemática Aplicada. Metodologia Científica. Microeconomia. Macroeconomia. Pesquisa Operacional. Gestão de Marketing. Gestão de Pessoas. Comunicação e Expressão.
+Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS.
+
+Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico.. Estatística. Matemática Aplicada. Gestão de Marketing. Applied Decision Theory. Applied Decision Science. 
+
+Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 
 # Projetos 🧑🏽‍🔬
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
