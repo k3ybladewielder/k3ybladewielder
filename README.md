@@ -18,8 +18,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 
 # **Artigos (Medium)** 📚
 * [**Introdução à Decision Theory**](https://k3ybladewielder.medium.com/p-8a6a2a1c9dc8)
-* [**Estatística Para Data Science Parte 2/8**](https://k3ybladewielder.medium.com/p-3c1961adc94e)
-* [**Estatística para Data Science Parte 1/8**](https://medium.com/data-hackers/stats-e789c6f86f66)
+* **Estatística Para Data Science [Parte 1/8](https://medium.com/data-hackers/stats-e789c6f86f66), [Parte 2/8](https://k3ybladewielder.medium.com/p-3c1961adc94e)**
 * [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
 * [**Técnicas de Topic Modelling**](https://k3ybladewielder.medium.com/topic-modelling-682f74fc5e63)
 * [**Conceitos de NLP**](https://k3ybladewielder.medium.com/conceitos-e-m%C3%A9todos-de-nlp-3d20711d7474)
