@@ -32,6 +32,8 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 * [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
 
 # **Estudos** 📑
+* [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
+* [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
@@ -41,6 +43,4 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 # Social
 📧 alyssonalk@gmail.com<br>
 💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
-👨‍🚀 [Telegram](t.me/alysson)
-🎙 [Spotify](https://open.spotify.com/user/sao5qyutaa7j64zwsojmyq7hq)
 Ⓜ️ [Medium](https://medium.com/@k3ybladewielder)
