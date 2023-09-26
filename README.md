@@ -16,7 +16,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
 
-# **Artigos (Medium)** 📚
+# **Artigos (Medium)** 📑
 * [**Introdução à Decision Theory**](https://k3ybladewielder.medium.com/p-8a6a2a1c9dc8)
 * **Estatística Para Data Science [Parte 1/8](https://medium.com/data-hackers/stats-e789c6f86f66), [Parte 2/8](https://k3ybladewielder.medium.com/p-3c1961adc94e)**
 * [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
@@ -30,7 +30,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 * [**Entendendo CatBoost: Um guia (quase) definitivo**](https://medium.com/data-hackers/p-b28bc153a78)
 * [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
 
-# **Estudos** 📑
+# **Estudos** 📚
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
 * [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
