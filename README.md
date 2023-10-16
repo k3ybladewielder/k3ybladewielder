@@ -17,6 +17,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
 
 # **Artigos (Medium)** 📑
+* [**Ciência Cognitiva 🧠**](https://k3ybladewielder.medium.com/p-8fb5d7c4edc)
 * [**Introdução à Decision Theory**](https://k3ybladewielder.medium.com/p-8a6a2a1c9dc8)
 * **Estatística Para Data Science [Parte 1/8](https://medium.com/data-hackers/stats-e789c6f86f66), [Parte 2/8](https://k3ybladewielder.medium.com/p-3c1961adc94e)**
 * [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
