@@ -34,6 +34,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 # **Estudos** 📚
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
 * [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
+* [**NLP Studies**](https://github.com/k3ybladewielder/nlp)
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
