@@ -15,6 +15,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 # Projetos 🧑🏽‍🔬
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
+* [**Time Series Forecasting of Cryptocurrencies**](https://github.com/k3ybladewielder/crypto_forecast)
 
 # **Artigos (Medium)** 📑
 * [**Ciência Cognitiva 🧠**](https://k3ybladewielder.medium.com/p-8fb5d7c4edc)
