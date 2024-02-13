@@ -2,7 +2,7 @@
 
 # Hello world ✨
 
-Cientista da dados autodidata +2.5 anos de experiência e 6.6 anos como Analista de dados/de negócios. MBA em **Gestão de Negócios e Inteligência Competitiva** pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
+Cientista da dados autodidata +2.5 anos de experiência e 6.6 anos como Analista de dados/de negócios. MBA em **Gestão de Negócios e Inteligência Competitiva** pela Universidade Tiradentes (2020) e **Bacharel em Administração** formado pela Faculdade São Luís de França (2019)
 
 Primary Skills: Data Science, Machine Learning,  Business Intelligence, Analytics, Python, NLP, Séries Temporais (Forecasting), Innovation, Open Innovation, Databricks.
 
