@@ -2,9 +2,9 @@
 
 # Hello world ✨
 
-Cientista da dados com background de negócios. MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
+Cientista da dados autodidata +2.5 anos de experiência e 6.6 anos como Analista de dados/de negócios. MBA em **Gestão de Negócios e Inteligência Competitiva** pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019)
 
-Primary Skills: Data Science, Machine Learning,  Business Intelligence, Analytics, Python, SQL, Séries Temporais (Forecasting), NLP, Innovation, Open Innovation, Databricks.
+Primary Skills: Data Science, Machine Learning,  Business Intelligence, Analytics, Python, NLP, Séries Temporais (Forecasting), Innovation, Open Innovation, Databricks.
 
 Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS.
 
@@ -18,21 +18,15 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 * [**Time Series Forecasting of Cryptocurrencies**](https://github.com/k3ybladewielder/crypto_forecast)
 
 # **Artigos (Medium)** 📑
-* [**Raciocínio em Modelos de Linguagem Pré-treinados (PLMs)**](https://medium.com/data-hackers/raciocinio-plms-821b188893b8)
-* [**Abordagens Filosóficas da Ciência Cognitiva**](https://k3ybladewielder.medium.com/abordagem-filosofica-ciencia-cognitiva-fd8730ef5a7b)
-* [**Ciência Cognitiva 🧠**](https://k3ybladewielder.medium.com/p-8fb5d7c4edc)
-* [**Introdução à Decision Theory**](https://k3ybladewielder.medium.com/p-8a6a2a1c9dc8)
-* **Estatística Para Data Science [Parte 1/8](https://medium.com/data-hackers/stats-e789c6f86f66), [Parte 2/8](https://k3ybladewielder.medium.com/p-3c1961adc94e)**
-* [**Inteligência Competitiva com Topic Modelling**](https://k3ybladewielder.medium.com/p-c6ea855f97b)
-* [**Técnicas de Topic Modelling**](https://k3ybladewielder.medium.com/topic-modelling-682f74fc5e63)
-* [**Conceitos de NLP**](https://k3ybladewielder.medium.com/conceitos-e-m%C3%A9todos-de-nlp-3d20711d7474)
-* [**Introdução à NLP**](https://k3ybladewielder.medium.com/introdu%C3%A7%C3%A3o-%C3%A0-nlp-4d7d98b9a36a)
-* [**Métodos de Aprendizagem Supervisionada Baseados em Árvore**](https://k3ybladewielder.medium.com/p-2c0580fe8f10)
-* [**Métodos de Suavização de Regressão**](https://k3ybladewielder.medium.com/m%C3%A9todos-de-suaviza%C3%A7%C3%A3o-de-regress%C3%A3o-d2512ae645c4)
-* [**Introdução à Inferência Causal**](https://medium.com/data-hackers/p-ed3da2c12da4)
-* [**Princípios da Regressão Linear**](https://k3ybladewielder.medium.com/princ%C3%ADpios-da-regress%C3%A3o-linear-3ab26a7b4340) 
-* [**Entendendo CatBoost: Um guia (quase) definitivo**](https://medium.com/data-hackers/p-b28bc153a78)
-* [**Seleção de Features com Recursive Feature Elimination (RFE)**](https://k3ybladewielder.medium.com/p-5effad69590b)
++15 artigos sobre os temas:
+- Estatística,
+- Ciência de Dados, Machine Learning e IA
+- Ciência Cognitiva
+- Decision Theory
+- Natural Language Processing (nlp)
+- Outros
+
+Acesse [aqui](https://k3ybladewielder.medium.com/sum%C3%A1rio-c4852466afbb).
 
 # **Estudos** 📚
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
