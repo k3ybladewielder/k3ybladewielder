@@ -18,15 +18,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 * [**Time Series Forecasting of Cryptocurrencies**](https://github.com/k3ybladewielder/crypto_forecast)
 
 # **Artigos (Medium)** 📑
-+15 artigos sobre os temas:
-- Estatística,
-- Ciência de Dados, Machine Learning e IA
-- Ciência Cognitiva
-- Decision Theory
-- Natural Language Processing (nlp)
-- Outros
-
-Acesse [aqui](https://k3ybladewielder.medium.com/sum%C3%A1rio-c4852466afbb).
++15 artigos sobre Estatística, Ciência de Dados, Machine Learning e IA, Ciência Cognitiva, Decision Theory, Natural Language Processing (NLP) e outros tópicos em [Português](https://k3ybladewielder.medium.com/p-c4852466afbb) 🇧🇷 e [Inglês](https://k3ybladewielder.medium.com/p-6300edb866e7) 🇺🇸.
 
 # **Estudos** 📚
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
