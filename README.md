@@ -20,13 +20,16 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 +15 artigos sobre Estatística, Ciência de Dados, Machine Learning e IA, Ciência Cognitiva, Decision Theory, Natural Language Processing (NLP) e outros tópicos em [Português](https://k3ybladewielder.medium.com/p-c4852466afbb) 🇧🇷 e [Inglês](https://k3ybladewielder.medium.com/p-6300edb866e7) 🇺🇸.
 
 # **Second Brain** 📚
-* [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
-* [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
-* [**Deep Learning Studies 🗝️**](https://github.com/k3ybladewielder/deep_learning)
 * [**NLP Studies**](https://github.com/k3ybladewielder/nlp)
-* [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
-* [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
+* [**Deep Learning Studies 🗝️**](https://github.com/k3ybladewielder/deep_learning)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
+* [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
+* [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
+* [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
+* [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
+
+
+
 * [**Álgebra Linear e Otimização para Machine Learning**](https://github.com/k3ybladewielder/ds_studies)
 
 # Social
