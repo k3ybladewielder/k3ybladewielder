@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 
 # Hello world ✨
-Cientista de dados autodidata +2.10 anos de experiência e 6.6 anos como Analista de dados/de negócios. Atualmente aluno do mestrado em Ciência da Computação pela UFS, sou formado no MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019) .
+Cientista de dados autodidata com +3 anos de experiência e 6.6 anos como Analista de dados/de negócios. Atualmente aluno do mestrado em Ciência da Computação pela UFS, sou formado no MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019) .
 
 Primary Skills: Data Science, Machine Learning, Business Intelligence, Analytics, Python, NLP, Séries Temporais (Forecasting), Innovation, Open Innovation, Databricks.
 
