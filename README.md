@@ -19,7 +19,7 @@ Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
 # **Artigos (Medium)** 📑
 +15 artigos sobre Estatística, Ciência de Dados, Machine Learning e IA, Ciência Cognitiva, Decision Theory, Natural Language Processing (NLP) e outros tópicos em [Português](https://k3ybladewielder.medium.com/p-c4852466afbb) 🇧🇷 e [Inglês](https://k3ybladewielder.medium.com/p-6300edb866e7) 🇺🇸.
 
-# **Estudos** 📚
+# **Second Brain** 📚
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
 * [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
 * [**Deep Learning Studies 🗝️**](https://github.com/k3ybladewielder/deep_learning)
