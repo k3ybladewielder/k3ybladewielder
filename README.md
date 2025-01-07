@@ -1,15 +1,19 @@
 [![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
 
 # Hello world ✨
-Cientista de dados autodidata com +3 anos de experiência e 6.6 anos como Analista de dados/de negócios. Atualmente aluno do mestrado em Ciência da Computação pela UFS, sou formado no MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019) .
+Cientista de dados com +3 anos de experiência e 6.6 anos como Analista de dados/de negócios. Atualmente aluno do mestrado em Ciência da Computação pela UFS, sou formado no MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019) .
 
-Primary Skills: Data Science, Machine Learning, Business Intelligence, Analytics, Python, NLP, Séries Temporais (Forecasting), Innovation, Open Innovation, Databricks.
+𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗦𝗸𝗶𝗹𝗹𝘀: Data Science, Machine Learning, Business Intelligence, Analytics, Python, NLP, Séries Temporais (Forecasting), Innovation, Open Innovation, Databricks. Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS.
 
-Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS.
+𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Estatística. Matemática Aplicada. Gestão de Marketing. Applied Decision Theory. Applied Decision Science.
 
-Academic expertise: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Estatística. Matemática Aplicada. Gestão de Marketing. Applied Decision Theory. Applied Decision Science.
+𝗠𝗮𝗶𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: Machine learning, NLP, Decision Theory, Cognitive Science.
 
-Main interests: Machine learning, NLP, Decision Theory, Cognitive Science.
+𝗔𝗿𝘁𝗶𝗴𝗼𝘀 (𝗠𝗲𝗱𝗶𝘂𝗺) 📑
++15 artigos sobre Estatística, Ciência de Dados, Machine Learning e IA, Ciência Cognitiva, Decision Theory, Natural Language Processing (NLP) e outros tópicos em Português 🇧🇷 e Inglês 🇺🇸.
+
+🔗🇧🇷 https://k3ybladewielder.medium.com/p-c4852466afbb
+🔗🇺🇸 https://k3ybladewielder.medium.com/p-6300edb866e7
 
 # Projetos 🧑🏽‍🔬
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
