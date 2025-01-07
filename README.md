@@ -9,12 +9,6 @@ Cientista de dados com +3 anos de experiência e 6.6 anos como Analista de dados
 
 𝗠𝗮𝗶𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: Machine learning, NLP, Decision Theory, Cognitive Science.
 
-𝗔𝗿𝘁𝗶𝗴𝗼𝘀 (𝗠𝗲𝗱𝗶𝘂𝗺) 📑
-+15 artigos sobre Estatística, Ciência de Dados, Machine Learning e IA, Ciência Cognitiva, Decision Theory, Natural Language Processing (NLP) e outros tópicos em Português 🇧🇷 e Inglês 🇺🇸.
-
-🔗🇧🇷 https://k3ybladewielder.medium.com/p-c4852466afbb
-🔗🇺🇸 https://k3ybladewielder.medium.com/p-6300edb866e7
-
 # Projetos 🧑🏽‍🔬
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
