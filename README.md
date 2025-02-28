@@ -1,23 +1,35 @@
-[![author](https://img.shields.io/badge/author-alysson_guimarães-red.svg)](https://www.linkedin.com/in/guimaraesalysson/)
+# Bio
+Data scientist with +3 years of experience in various sectors such as construction, food/clothing retail, Agro, involving problem solving/projects through forecasting, clustering, classification, NLP, GenAI. Previously, working as a Business Analyst with +6 years of experience. Check out my resume [**here**](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/cv_alysson_ds_researcher.pdf) for a detailed description of duties. 
 
-# Hello world ✨
-Cientista de dados com +3 anos de experiência e 6.6 anos como Analista de dados/de negócios. Atualmente aluno do mestrado em Ciência da Computação pela UFS, sou formado no MBA em Gestão de Negócios e Inteligência Competitiva pela Universidade Tiradentes (2020) e Bacharel em Administração formado pela Faculdade São Luís de França (2019) .
+Currently a Master's student in Computer Science at UFS, I graduated with an MBA in Business Management and Competitive Intelligence from Universidade Tiradentes (2020) and a Bachelor's degree in Administration from Faculdade São Luís de França (2019).
 
-𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗦𝗸𝗶𝗹𝗹𝘀: Data Science, Machine Learning, Business Intelligence, Analytics, Python, NLP, Séries Temporais (Forecasting), Innovation, Open Innovation, Databricks. Conhecimentos em MLOps, Google Cloud Plataform (GCP), Azure Machine Learning, AWS.
+My research focus is artificial intelligence (AI), specifically language models. My work explores Natural Language Processing (NLP) techniques applied to (but not limited to) healthcare, medical and biomedical domains to improve processes, reduce cognitive load on professionals and information overload through methods such as Text Summarization and Named Entity Recognition (NER). In addition, I am interested in Commonsense Reasoning in language models and also Optimization.
 
-𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Inteligência Competitiva, Inteligência de Negócio, Inteligência de Mercado. Planejamento Estratégico. Marketing Estratégico. Estatística. Matemática Aplicada. Gestão de Marketing. Applied Decision Theory. Applied Decision Science.
+- 𝗠𝗮𝗶𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: Machine learning, NLP, Language Models, Optimization.
+- 𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗦𝗸𝗶𝗹𝗹𝘀: Data Science, Machine Learning, Business Intelligence, Analytics, Python, NLP, Time Series (Forecasting), Innovation, Open Innovation, Databricks. Knowledge in MLOps, Google Cloud Platform (GCP), Azure Machine Learning, AWS. 
+- 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Competitive Intelligence, Business Intelligence, Market Intelligence. Strategic Planning. Strategic Marketing. Statistics. Applied Mathematics. Marketing Management. Applied Decision Theory. Applied Decision Science.
 
-𝗠𝗮𝗶𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: Machine learning, NLP, Decision Theory, Cognitive Science.
+# Technologies
+This section lists some technologies that I master and have experience with.
+- **Languages**: Portuguese (Native), English (B2)
+- **Programming Languages**: Python, SQL
+- **Machine Learning Tools**: Scikit-learn, CatBoost, NumPy, Pandas, Seaborn, Plotly, PySpark, Databricks.
+- **Technologies and Skills**: Full Data Science Pipeline, Power BI, Google Data Studio, Regression, Classification,
+Time Series Analysis, Hypothesis Testing, Excel, Git, Airflow
+- **Cloud**: Knowledge in Databricks, AWS, GCP, Azure (Development to Deployment)
 
-# Projetos 🧑🏽‍🔬
+# Side Projects
+This section lists some side projects created with the aim of exploring new technologies, algorithms and models, that is, to learn.
+
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
 * [**Time Series Forecasting of Cryptocurrencies**](https://github.com/k3ybladewielder/crypto_forecast)
-
-# **Artigos (Medium)** 📑
-+15 artigos sobre Estatística, Ciência de Dados, Machine Learning e IA, Ciência Cognitiva, Decision Theory, Natural Language Processing (NLP) e outros tópicos em [Português](https://k3ybladewielder.medium.com/p-c4852466afbb) 🇧🇷 e [Inglês](https://k3ybladewielder.medium.com/p-6300edb866e7) 🇺🇸.
+* [**Blog (Medium) in Portuguese**](https://k3ybladewielder.medium.com/p-c4852466afbb)
+* [**Blog (Medium) Multilanguage**](https://k3ybladewielder.medium.com/p-6300edb866e7)
 
 # **Second Brain** 🧠
+This section lists some repositories on topics of interest for study. These repositories contain notes, summaries, index cards and personal insights on studies. It does not contain derived materials.
+
 * [**NLP Studies 🗝️**](https://github.com/k3ybladewielder/nlp)
 * [**Deep Learning Studies 🗝️**](https://github.com/k3ybladewielder/deep_learning)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
