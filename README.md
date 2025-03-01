@@ -3,11 +3,7 @@ Data scientist with +3 years of experience in various sectors such as constructi
 
 Currently a Master's student in Computer Science at UFS, I graduated with an MBA in Business Management and Competitive Intelligence from Universidade Tiradentes (2020) and a Bachelor's degree in Administration from Faculdade São Luís de França (2019).
 
-My research focus is artificial intelligence (AI), specifically language models. My work explores Natural Language Processing (NLP) techniques applied to (but not limited to) healthcare, medical and biomedical domains to improve processes, reduce cognitive load on professionals and information overload through methods such as Text Summarization and Named Entity Recognition (NER). In addition, I am interested in Commonsense Reasoning in language models and also Optimization.
-
-- 𝗠𝗮𝗶𝗻 𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀: Machine learning, NLP, Language Models, Optimization.
-- 𝗣𝗿𝗶𝗺𝗮𝗿𝘆 𝗦𝗸𝗶𝗹𝗹𝘀: Data Science, Machine Learning, Business Intelligence, Analytics, Python, NLP, Time Series (Forecasting), Innovation, Open Innovation, Databricks. Knowledge in MLOps, Google Cloud Platform (GCP), Azure Machine Learning, AWS. 
-- 𝗔𝗰𝗮𝗱𝗲𝗺𝗶𝗰 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲: Competitive Intelligence, Business Intelligence, Market Intelligence. Strategic Planning. Strategic Marketing. Statistics. Applied Mathematics. Marketing Management. Applied Decision Theory. Applied Decision Science.
+My research focus is artificial intelligence (AI), specifically **language models**. My work explores Natural Language Processing (NLP) techniques applied to (but not limited to) healthcare, medical and biomedical domains to improve processes, reduce cognitive load on professionals and information overload through methods such as Text Summarization and Named Entity Recognition (NER). In addition, I am interested in Commonsense Reasoning in language models and also Optimization.
 
 # Technologies
 This section lists some technologies that I master and have experience with.
@@ -15,8 +11,8 @@ This section lists some technologies that I master and have experience with.
 - **Programming Languages**: Python, SQL
 - **Machine Learning Tools**: Scikit-learn, CatBoost, NumPy, Pandas, Seaborn, Plotly, PySpark, Databricks.
 - **Technologies and Skills**: Full Data Science Pipeline, Power BI, Google Data Studio, Regression, Classification,
-Time Series Analysis, Hypothesis Testing, Excel, Git, Airflow
-- **Cloud**: Knowledge in Databricks, AWS, GCP, Azure (Development to Deployment)
+Time Series Analysis, Forecasting, Hypothesis Testing, Excel, Git, Airflow
+- **Cloud**: Databricks, AWS, GCP, Azure (Development to Deployment)
 
 # Side Projects
 This section lists some side projects created with the aim of exploring new technologies, algorithms and models, that is, to learn.
@@ -24,8 +20,7 @@ This section lists some side projects created with the aim of exploring new tech
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 * [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
 * [**Time Series Forecasting of Cryptocurrencies**](https://github.com/k3ybladewielder/crypto_forecast)
-* [**Blog (Medium) in Portuguese**](https://k3ybladewielder.medium.com/p-c4852466afbb)
-* [**Blog (Medium) Multilanguage**](https://k3ybladewielder.medium.com/p-6300edb866e7)
+* **Blog (Medium)** in [Portuguese](https://k3ybladewielder.medium.com/p-c4852466afbb) and [Multilingual](https://k3ybladewielder.medium.com/p-6300edb866e7)
 
 # **Second Brain** 🧠
 This section lists some repositories on topics of interest for study. These repositories contain notes, summaries, index cards and personal insights on studies. It does not contain derived materials.
@@ -40,5 +35,5 @@ This section lists some repositories on topics of interest for study. These repo
 
 # Social
 📧 alyssonalk@gmail.com<br>
-💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
+💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br>
 Ⓜ️ [Medium](https://medium.com/@k3ybladewielder)
