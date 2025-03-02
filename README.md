@@ -7,9 +7,9 @@ My research focus is artificial intelligence (AI), specifically **language model
 
 # Technologies
 This section lists some technologies that I master and have experience with.
-- **Languages**: Portuguese (Native), English (B2)
-- **Programming Languages**: Python, SQL
-- **Machine Learning Tools**: Scikit-learn, CatBoost, NumPy, Pandas, Seaborn, Plotly, PySpark, Databricks.
+- **Languages**: Portuguese (Native), English (B2).
+- **Programming Languages**: Python, SQL.
+- **Machine Learning Tools**: Scikit-learn, Pytorch, Tensorflow, CatBoost, NumPy, Pandas, Seaborn, Plotly, PySpark, Databricks.
 - **Technologies and Skills**: Data acquisition, processing and modeling, data visualization with tools (Eg. Power BI), Regression, Classification, Optimization, Bioinspired Optimization, Time Series Analysis, Forecasting, Hypothesis Testing, Excel.
 - **Cloud**: Databricks, AWS, GCP, Azure (Development to Deployment)
 
