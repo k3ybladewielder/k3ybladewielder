@@ -1,4 +1,4 @@
-# Bio
+# About me
 Data scientist with +3 years of experience in various sectors such as construction, food/clothing retail, Agro, involving problem solving/projects through forecasting, clustering, classification, NLP, GenAI. Previously, working as a Business Analyst with +6 years of experience. Check out my resume [**here**](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/cv_alysson_ds_researcher.pdf) for a detailed description of the tasks and deliveries performed. 
 
 Currently a Master's student in Computer Science at UFS, I graduated with an MBA in Business Management and Competitive Intelligence from Universidade Tiradentes (2020) and a Bachelor's degree in Administration from Faculdade São Luís de França (2019).
