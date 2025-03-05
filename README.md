@@ -16,10 +16,11 @@ This section lists some technologies that I master and have experience with.
 # Side Projects
 This section lists some side projects created with the aim of exploring new technologies, algorithms and models, that is, to learn.
 
-* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
-* [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
+* **Blog (Medium) in [Portuguese](https://k3ybladewielder.medium.com/p-c4852466afbb) and [Multilingual](https://k3ybladewielder.medium.com/p-6300edb866e7)**
 * [**Time Series Forecasting of Cryptocurrencies**](https://github.com/k3ybladewielder/crypto_forecast)
-* **Blog (Medium)** in [Portuguese](https://k3ybladewielder.medium.com/p-c4852466afbb) and [Multilingual](https://k3ybladewielder.medium.com/p-6300edb866e7)
+* [**Building Generative AI Applications with Gradio**](https://github.com/k3ybladewielder/gen_apps)
+* [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
+
 
 # **Second Brain** 🧠
 This section lists some repositories on topics of interest for study. These repositories contain notes, summaries, index cards and personal insights on studies. It does not contain derived materials.
