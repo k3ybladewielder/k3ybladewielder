@@ -32,6 +32,7 @@ This section lists some repositories on topics of interest for study. These repo
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
 * [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
+* [**Computer Vision**](https://github.com/k3ybladewielder/computer_vision)
 
 # Social
 📧 alyssonalk@gmail.com<br>
