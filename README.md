@@ -35,6 +35,6 @@ This section lists some repositories on topics of interest for study. These repo
 * [**Computer Vision**](https://github.com/k3ybladewielder/computer_vision)
 
 # Social
-📧 alyssonalk@gmail.com<br>
-💼 [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)<br>
-Ⓜ️ [Medium](https://medium.com/@k3ybladewielder)
+- alyssonalk@gmail.com
+- [Linkedin](https://www.linkedin.com/in/guimaraesalysson/)
+- [Medium](https://medium.com/@k3ybladewielder)
