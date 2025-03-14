@@ -22,7 +22,7 @@ This section lists some side projects created with the aim of exploring new tech
 * [**Retail Topic Modelling with BERTopic**](https://github.com/k3ybladewielder/retail_trend_detector)
 
 
-# **Second Brain** 🧠
+# **Studies** 🧠
 This section lists some repositories on topics of interest for study. These repositories contain notes, summaries, index cards and personal insights on studies. It does not contain derived materials.
 
 * [**NLP Studies 🗝️**](https://github.com/k3ybladewielder/nlp)
