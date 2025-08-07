@@ -7,11 +7,11 @@ My research focus is artificial intelligence (AI), specifically **language model
 
 # Technologies
 This section lists some technologies that I master and have experience with.
-- **Languages**: Portuguese (Native), English (B2).
-- **Programming Languages**: Python, SQL.
-- **Machine Learning Tools**: Scikit-learn, Pytorch, Tensorflow, CatBoost, NumPy, Pandas, Seaborn, Plotly, PySpark, Databricks.
-- **Technologies and Skills**: Data acquisition, processing and modeling, data visualization with tools (Eg. Power BI), Regression, Classification, Optimization, Bioinspired Optimization, Time Series Analysis, Forecasting, Hypothesis Testing, Excel.
-- **Cloud**: Databricks, AWS, GCP, Azure (Development to Deployment)
+- **Languages**: Portuguese (Native), English (B2), Spanish (A1).
+- **Programming Languages**: Python, SQL, Scala, Spark.
+- **Machine Learning Tools**: Scikit-learn, CatBoost, NumPy, Pandas, Seaborn, Plotly, PySpark, Databricks, Polars, XGboost, Pyomo, Scikit-Optimize, TensorFlow, PyTorch, Statsmodels, Jupyter Notebook, VS Code, Spark, Scala, SPSS, Mineração de Texto, NLP, Neural Networks, Redes Neurais, Deep Learning, RNN, CNN, LSTM, Generative AI, LLM, Huggingface, Langchain, LLamaindex, Agents.
+- **Technologies and Skills**: Full Data Science Pipeline, Power BI, Google Data Studio, Regression, Classification, Time Series Analysis, Hypothesis Testing, Excel, Git, Github, Airflow, Langchain, LLamaindex, FAISS, Vector Databases, LangGraph, Optimization, Operational Research.
+- **Cloud**: Databricks, AWS, GCP, Azure.
 
 # Side Projects
 This section lists some side projects created with the aim of exploring new technologies, algorithms and models, that is, to learn.
