@@ -29,6 +29,7 @@ This section lists some repositories on topics of interest for study. These repo
 
 * [**NLP Studies 🗝️**](https://github.com/k3ybladewielder/nlp)
 * [**Deep Learning Studies 🗝️**](https://github.com/k3ybladewielder/deep_learning)
+* [**Game Theory Studies 🗝️**](https://github.com/k3ybladewielder/game_theory)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
 * [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
