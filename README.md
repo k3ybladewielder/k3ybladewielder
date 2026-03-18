@@ -1,12 +1,19 @@
 # About me
 Data scientist with +4 years of experience in various sectors such as construction, food/clothing retail, Agro, involving problem solving/projects through forecasting, clustering, classification, NLP, GenAI. Previously, working as a Business Analyst with +6 years of experience. Check out my resume [**here**](https://github.com/k3ybladewielder/k3ybladewielder/blob/main/cv_alysson_ds_researcher.pdf) for a detailed description of the tasks and deliveries performed. 
 
-My research focus is artificial intelligence (AI), specifically **language models**. My work explores Natural Language Processing (NLP) techniques applied to (but not limited to) healthcare, medical and biomedical domains to improve processes, reduce cognitive load on professionals and information overload through methods such as Text Summarization and Named Entity Recognition (NER). In addition, I am interested in Commonsense Reasoning in language models and also Optimization.
-
 # Education
 - Master in Computer Science @ **Universidade Federal de Sergipe (UFS)** (2024 -- 2026). Advisor: Methanias Colaço Junior.
 - MBA in Business Management and Competitive Intelligence @ **Universidade Tiradentes (UNIT)** (2019 -- 2020). GPA: 3.64/4.
 - Bachelor in Business Administration @ **Faculdade São Luís de França (FSLF)** (2015 -- 2019). GPA: 3.36/4.
+
+# Publications and Scientific Work
+My research focus is artificial intelligence (AI), specifically **language models**. My work explores Natural Language Processing (NLP) techniques applied to (but not limited to) healthcare, medical and biomedical domains to improve processes, reduce cognitive load on professionals and information overload through methods such as Text Summarization and Named Entity Recognition (NER). In addition, I am interested in Commonsense Reasoning in language models and also Optimization.
+
+- 6 articles produced during the master's program;
+- 4 published as the main author;
+- 1 publication as a co-author;
+
+See all works here: https://orcid.org/0000-0002-1035-8992
 
 # Technologies
 This section lists some technologies that I master and have experience with.
