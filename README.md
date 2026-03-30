@@ -40,7 +40,7 @@ This section lists some repositories on topics of interest for study. These repo
 * [**Deep Learning Studies 🗝️**](https://github.com/k3ybladewielder/deep_learning)
 * [**Game Theory Studies 🗝️**](https://github.com/k3ybladewielder/game_theory)
 * [**Manual Prático do Deep Learninig**](https://github.com/k3ybladewielder/mpdl)
-* [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math_for_ml_ds)
+* [**Mathematics for Machine Learning and Data Science**](https://github.com/k3ybladewielder/math)
 * [**Python Developer**](https://github.com/k3ybladewielder/python-developer)
 * [**Cognitive Science Roadmap**](https://github.com/k3ybladewielder/cognitive_science/)
 * [**Decision Theory Roadmap**](https://github.com/k3ybladewielder/decision_theory)
