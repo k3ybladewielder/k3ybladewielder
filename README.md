@@ -9,11 +9,11 @@ Data scientist with +4 years of experience in various sectors such as constructi
 # Publications and Scientific Work
 My research focus is artificial intelligence (AI), specifically **language models**. My work explores Natural Language Processing (NLP) techniques applied to (but not limited to) healthcare, medical and biomedical domains to improve processes, reduce cognitive load on professionals and information overload through methods such as Text Summarization and Named Entity Recognition (NER). In addition, I am interested in Commonsense Reasoning in language models and also Optimization.
 
-- 6 articles produced during the master's program;
-- 4 published as the main author;
-- 1 publication as a co-author;
-
-See all works here: https://orcid.org/0000-0002-1035-8992
+* **A. Guimarães**, M. Colaço Junior. *A Generic Extractive Multi-document Text Summarization Method Using Memetic Algorithm and Combinatorial Optimization*. **Published** and presented at XXII Brazilian Symposium on Information Systems (SBSI'26), DOI: [10.5753/sbsi.2026.248295](https://doi.org/10.5753/sbsi.2026.248295), 2026.
+* **A. Guimarães**, M. Colaço Junior. *Experimental Evaluation of Machine Learning Algorithms for Classifying Health-Related News with Indications of Irregularity*. **Published** and presented at XXII Brazilian Symposium on Information Systems (SBSI'26), DOI: [10.5753/sbsi.2026.248366](https://doi.org/10.5753/sbsi.2026.248366), 2026.
+* **A. Guimarães**, et al. *Experimental Evaluation of Topic Modeling Methods for Categorizing Irregularities in Health-related news*. **Published** and presented at 7th International Conference on Computational Processing of Portuguese (PROPOR'26), ISBN: [979-8-89176-387-6](https://aclanthology.org/2026.propor-1.5), 2026.
+* **A. Guimarães**, et al. *Small Language Models Applied in Text Summarization Task of Health-Related News to Improve Public Health Audit: An Experimental Case Study*. **Published** at *Frontiers in Artificial Intelligence*, DOI: [https://doi.org/10.3389/frai.2026.1708993](https://doi.org/10.3389/frai.2026.1708993), 2026.
+* **A. Guimarães**, M. Colaço Junior. *A Systematic Mapping on Text Summarization Methods Applied in Health Domain*. **(Preprint)**, SSRN: [6221778](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6221778), 2025.
 
 # Technologies
 This section lists some technologies that I master and have experience with.
