@@ -1,5 +1,4 @@
 # About me
-- **Data Engineer**: End-to-end ETL lifecycle.
 - **Data Scientist**: End-to-end data lifecycle, working across sectors such as civil construction, retail (food and apparel), and agriculture, addressing challenges and delivering projects through forecasting, clustering, classification, NLP, and GenAI.
 - **AI Engineer**: End-to-end lifecycles designing, architecting, and implementing AI applications and AI agents on AWS and GCP.
 - **Agentic Software Engineer**: a developer who orchestrates, supervises, and validates autonomous or semi-autonomous AI agents that perform software development tasks.
