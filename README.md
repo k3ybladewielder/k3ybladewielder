@@ -21,7 +21,7 @@ This section lists some side projects created with the aim of exploring new tech
 
 * **[Agent Skills Collection](https://github.com/k3ybladewielder/skills)**: A curated collection of modular, production-grade **agent skills** designed for autonomous and pair-programming AI coding assistants (Google Antigravity, Claude Code, Cursor, Codex, and compatible agent frameworks). Each skill encapsulates domain-specific operational workflows, architectural guidelines, deterministic quality gates, and formal verification methodologies via standardized `SKILL.md` instruction files.
 * [**🧬 BendSR: Symbolic Regression in Bend**](https://github.com/k3ybladewielder/BendSR)
-* **Blog (Substack) in [English]([https://k3ybladewielder.medium.com/p-c4852466afbb](https://leastsquared.substack.com/))**
+* **Blog (Substack) in [English](https://leastsquared.substack.com/)**
 * **Blog (Medium) in [Portuguese](https://k3ybladewielder.medium.com/p-c4852466afbb) and [Multilingual](https://k3ybladewielder.medium.com/p-6300edb866e7)**
 * [**CloudWalk Agent Swarm 🐝**](https://github.com/k3ybladewielder/cloudwalk_swarm)
 * [**CloudWalk Chatbot 💬**](https://github.com/k3ybladewielder/cloudwalk_chatbot)
