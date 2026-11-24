@@ -22,7 +22,7 @@ This section lists some side projects created with the aim of exploring new tech
 * **[minimalDeLM](https://github.com/k3ybladewielder/minimalDeLM)**: A minimalist, general-purpose, role-free AI agent swarm harness built on Bun, SQLite, MCP, and the Pi toolkit, implementing the DeLM (Decentralized Language Models, arXiv:2606.10662) architecture.
 * **[ts-model-checker](https://github.com/k3ybladewielder/ts-model-checker)**: A TLA+-style formal model checker in TypeScript with an eval-free AST evaluator, BFS state-space explorer, Tarjan SCC liveness checker, TLA+ transpiler, and a visual no-code React UI.
 * **[Agent Skills Collection](https://github.com/k3ybladewielder/skills)**: A curated collection of modular, production-grade **agent skills** designed for autonomous and pair-programming AI coding assistants (Google Antigravity, Claude Code, Cursor, Codex, and compatible agent frameworks). Each skill encapsulates domain-specific operational workflows, architectural guidelines, deterministic quality gates, and formal verification methodologies via standardized `SKILL.md` instruction files.
-* [**🧬 BendSR: Symbolic Regression in Bend**](https://github.com/k3ybladewielder/BendSR)
+* [**🧬 BendSR: Symbolic Regression in Bend**](https://github.com/k3ybladewielder/BendSR): A native implementation of Symbolic Regression built with Bend (by Higher Order Company), a massively parallel, functional programming language.
 * **Blog (Substack) in [English](https://leastsquared.substack.com/)**
 * **Blog (Medium) in [Portuguese](https://k3ybladewielder.medium.com/p-c4852466afbb) and [Multilingual](https://k3ybladewielder.medium.com/p-6300edb866e7)**
 * [**CloudWalk Agent Swarm 🐝**](https://github.com/k3ybladewielder/cloudwalk_swarm)
